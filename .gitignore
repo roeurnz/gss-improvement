@@ -1,0 +1,7 @@
+.idea
+.DS_Store
+images/
+report/
+api_key.php
+database/dbconfig.php
+vendor/
